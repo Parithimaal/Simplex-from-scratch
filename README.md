@@ -1,1 +1,1 @@
-# Simplex-from-scratch
+# Simplex-from-scratch (Documentation is pending!)
